@@ -20,3 +20,5 @@ _deploy the smart contract:_
 Take the contract address and replace with it the old contractAddress variable in patientList.html 
 
 when you open the HTML file, right-click and choose run with Live Server (if you do not have it. install it from VScode extension)
+
+## Hyperledger Fabric
