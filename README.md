@@ -9,7 +9,7 @@ _Run the ganache client_
 
 **ganache-cli**
 
-Use one of the account's private keys to import it into Metamask Wallet.
+$ Use one of the account's private keys to import it into Metamask Wallet.
 
 Do not forget to change the network to a ganache network (use the network information form truffle-config.js)
 
