@@ -1,6 +1,8 @@
 # BCDentistry
 
-In this project we are implementing storing patient data on the blockchain. We started by using the ethereum blockchain platform and then realized that using Hyperledger Fabric is better for our project and what we are trying to implement. Here's how to access the project on each one 
+In this project, we are implementing storing patient data on the blockchain. We started by using the Ethereum blockchain platform and then realized that using Hyperledger Fabric is better for our project and what we are trying to implement. Here's how to access the project on each one 
+
+Before running the project, clone the repository into your computer using the git clone command 
 
 ## Ethereum 
 to run the project
