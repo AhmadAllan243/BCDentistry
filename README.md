@@ -7,7 +7,7 @@ Before running the project, clone the repository into your computer using the gi
 ## Ethereum 
 to run the project
 
-### _Run the ganache client_
+_Run the ganache client_
 
 **ganache-cli**
 
